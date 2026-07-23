@@ -1,2 +1,2 @@
 # Fake-News-Detection
-Machine Learning project to classify news as Real or Fake.
+Machine Learning and NLP project to detect fake news articles. can i pste this
